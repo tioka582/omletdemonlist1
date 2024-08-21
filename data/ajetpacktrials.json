@@ -1,0 +1,19 @@
+{
+    "id": 1012,
+    "name": "A jetpack trials",
+    "author": "XLord",
+    "creators": ["XLord"],
+    "verifier": "XLord",
+    "verification": "https://www.youtube.com/watch?v=SWNsFyjTa00",
+    "showcase": "",
+    "percentToQualify": 100,
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Gregoriah",
+            "link": "https://youtu.be/fdMQqs8Q-Rg",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

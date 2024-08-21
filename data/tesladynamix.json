@@ -1,0 +1,61 @@
+{
+    "id": 614,
+    "name": "Tesla Dynamix",
+    "author": "DanzeR",
+    "creators": ["DanzeR"],
+    "verifier": "imasssaya",
+    "verification": "https://youtu.be/KbauWoXRg3w?si=J_QbGTCJjwmP3MNG",
+    "showcase": "",
+    "percentToQualify": 60,
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Aisho",
+            "link": "https://drive.google.com/file/d/1wsHdczqSixpGck_WuFSnzp6g4o124M59/view?usp=sharing",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Gregoriah",
+            "link": "https://youtu.be/dZV23GuokdE",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "sooga07",
+            "link": "https://youtu.be/UNjnjicgjSI?si=Nqik2TRFSN3ADglA",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "GaTTeX",
+            "link": "https://youtu.be/8ewoCBnA7No?si=FHp-n-Zx5LyojZMV",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "bull2k",
+            "link": "https://youtu.be/O17Fkluj4Ts?si=WxknDqw__GE016AY",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Fugy",
+            "link": "https://www.youtube.com/watch?v=XFXtXYR4ACU",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Zorde02",
+            "link": "https://youtu.be/ldgtt-8FLXA?si=LcAZw6HOV33n70Hw",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Blytys",
+            "link": "https://youtu.be/bkHbjyLSF48",
+            "percent": 100,
+            "hz": 244
+        }
+    ]
+}

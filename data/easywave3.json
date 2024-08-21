@@ -1,0 +1,18 @@
+{
+    "id": 766,
+    "name": "Easy Wave 3",
+    "author": "GaTTeX",
+    "creators": ["GaTTeX"],
+    "verifier": "GaTTeX",
+    "verification": "https://youtu.be/koLShkd91ho?si=0PoSu2teaX_ecyfr&t=165",
+    "showcase": "",
+    "percentToQualify": 100,
+    "records": [
+            {
+                "user": "nbeek",
+                "link": "https://youtu.be/ierbdfXPix8?si=JqWgQtc4-9aKs6Xv",
+                "percent": 100,
+                "hz": 60
+            }
+    ]
+}

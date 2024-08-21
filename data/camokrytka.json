@@ -1,0 +1,24 @@
+{
+    "id": 835,
+    "name": "camokrytka",
+    "author": "GeniyMislei",
+    "creators": ["GeniyMislei"],
+    "verifier": "GeniyMislei",
+    "verification": "https://youtu.be/e-cFuklXzGg",
+    "showcase": "",
+    "percentToQualify":70 ,
+    "records": [
+        {
+            "user": "GaTTeX",
+            "link": "https://youtu.be/y0TMvVrOI0g?si=qegVhFHZD5aq2RZJ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "XLord",
+            "link": "https://youtu.be/lx12t9L7EZs",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

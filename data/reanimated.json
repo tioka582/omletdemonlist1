@@ -1,0 +1,35 @@
+{
+    "id": 1098,
+    "name": "Reanimated",
+    "author": "DoloresKing",
+    "creators": ["DoloresKing"],
+    "verifier": "DoloresKing",
+    "verification": "https://www.youtube.com/watch?v=_mQaFcbcmYg&ab_channel=Z.E.O.N",
+    "showcase": "",
+    "percentToQualify": 77,
+    "records": [
+        {
+            "user": "Blytys",
+            "link": "https://youtu.be/CrkhrKWrjzA",
+            "percent": 100,
+            "hz": 244
+        },
+        {
+            "user": "nbeek",
+            "link": "https://youtu.be/kLgkhd9Uuv0?si=59YDXmz8i20HB6CI",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "invictapidoras",
+            "link": "https://youtu.be/Wm5Bg7VlWhY?si=13b1U9hXCNd92c02",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}               
+            
+            
+        
+    
+

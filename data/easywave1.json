@@ -1,0 +1,18 @@
+{
+    "id": 839,
+    "name": "Easy Wave 1",
+    "author": "GaTTeX",
+    "creators": ["GaTTeX"],
+    "verifier": "GaTTeX",
+    "verification": "https://youtu.be/koLShkd91ho?si=eveyuADBdV6514dK&t=577",
+    "showcase": "",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "XLord",
+            "link": "https://youtu.be/ldy9vu5a3sg",
+           "percent": 100,
+            "hz": 144
+        }
+    ]
+}

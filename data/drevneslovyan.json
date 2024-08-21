@@ -1,0 +1,50 @@
+{
+    "id": 241,
+    "name": "Drevneslovyan",
+    "author": "Egor_Skripka",
+    "creators": ["EgorSkripka","nikt0"],
+    "verifier": "Aisho",
+    "verification": "https://youtu.be/be5J2jcL4bY",
+    "showcase": "",
+    "percentToQualify": 50,
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "imasssaya",
+            "link": "https://youtu.be/1_PqhB6aHik",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "sooga07",
+            "link": "https://youtu.be/5Dhm26DQzZs?si=f-r1Bjr7aotT9Zka",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Gregoriah",
+            "link": "https://youtu.be/8gppiD2zrhg?si=th3h91S9LkbG0-Nx",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "bull2k",
+            "link": "https://youtu.be/nzDZipfvgQU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "GaTTeX",
+            "link": "https://youtu.be/UhDj7ESwgvw?si=p6kwjJwiEd-CDEYf",
+            "percent": 100,
+            "hz": 60
+        }
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

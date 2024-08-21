@@ -1,0 +1,25 @@
+{
+    "id": 665,
+    "name": "Last Chance",
+    "author": "Freduk34",
+    "creators": ["Freduk34"],
+    "verifier": "Freduk34",
+    "verification": "https://youtu.be/kn-A3dDawFw",
+    "showcase": "https://youtu.be/oYBIg7-MgOs",
+    "percentToQualify": 52,
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "imasssaya",
+            "link": "https://youtu.be/IMsIgn9hdSk",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "bull2k",
+            "link": "https://youtu.be/N134vP9lzLc?si=Rjj3u5THhzPZSoWJ&t=206",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

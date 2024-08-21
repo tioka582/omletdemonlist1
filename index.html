@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1024" />
+    <meta property="og:title" content="GreenGDPS DemonList" />
+    <meta property="og:description"
+        content="GreenGDPS DemonList." />
+    <meta property="og:url" content="https://ggdemonlist.github.io" />
+    <meta property="og:image" content="/we_icon.png" />
+    <title>GreenGDPS List</title>
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/css/typography.css" />
+    <link rel="stylesheet" type="text/css" href="/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="/css/pages/list.css" />
+    <link rel="stylesheet" type="text/css" href="/css/pages/leaderboard.css" />
+    <link rel="stylesheet" type="text/css" href="/css/pages/roulette.css" />
+    <link rel="stylesheet" type="text/css" href="/css/components/nav.css" />
+    <link rel="stylesheet" type="text/css" href="/css/components/btn.css" />
+    <link rel="stylesheet" type="text/css" href="/css/components/tabs.css" />
+    <link rel="stylesheet" type="text/css" href="/css/components/form.css" />
+    <link rel="stylesheet" type="text/css" href="/css/dropdown.css" />
+    <script src="https://unpkg.com/vue@3.2.31/dist/vue.global.js"></script>
+    <script src="https://unpkg.com/vue-router@4.0.14/dist/vue-router.global.prod.js"></script>
+    <script type="module" src="/js/main.js"></script>
+</head>
+<body id="app">
+    <div class="root" :class="{ dark: store.dark }">
+        <header class="surface">
+            <div class="logo">
+                <img src="/WEGDPSLIST.png" alt="logo" />
+            </div>
+            <nav class="nav">
+                <!-- Щидевро дропдаун -->
+                <div class="dropdown">
+                    <button class="dropdown-button"><h6>Navigation</h6></button>
+                    <div class="dropdown-content">
+                      <div class="category">
+                        <h3>Lists</h3>
+                        <div class="buttons">
+                          <router-link class="button" to="/">DemonList</router-link>
+                          <router-link class="button" to="/pl">PLList</router-link>
+                          <router-link class="button" to="/ch">CHList</router-link>
+                        </div>
+                      </div>
+                      <div class="category">
+                        <h3>Other</h3>
+                        <div class="buttons">
+                          <router-link class="button" to="/leaderboard">Leaderboard</router-link>
+                          <router-link class="button" to="/roulette">Roulette</router-link>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                <div class="nav__actions">
+                    <button
+                        class="nav__icon"
+                        @click.prevent="store.toggleDark()"
+                    >
+                        <img
+                            :src="store.dark ? '/assets/light.svg' : '/assets/dark.svg'"
+                            alt=""
+                        />
+                    </button>
+                    <a class="nav__icon" href="https://discord.gg/evm4UVE4UZ">
+                        <img src="/assets/discord.svg" alt="Discord Logo" />
+                    </a>
+                    <router-link class="nav__cta" to="/form">
+                        <span class="type-button-lg"><h6>Send A Record</h6></span>
+                </div>
+            </nav>
+        </header>
+        <router-view></router-view>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,30 @@
+{
+    "id":782 ,
+    "name": "Sunder",
+    "author": "CBOboy",
+    "creators": ["CBOboy"],
+    "verifier": "CBOboy",
+    "verification": "https://youtu.be/XmtwxCJqEoU?si=bSbAx8PE1ggNGbA2",
+    "showcase": "",
+    "percentToQualify":60 ,
+    "records": [
+        {
+            "user": "imasssaya",
+            "link": "https://youtu.be/8yemxJXPR9Q",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Zorde02",
+            "link": "https://youtu.be/BqT0KPaEmZE?si=bDGmaxJ6gVd3OI0-",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Blytys",
+            "link": "https://youtu.be/I-ohRPokZdU",
+            "percent": 100,
+            "hz": 244
+        }
+    ]
+}

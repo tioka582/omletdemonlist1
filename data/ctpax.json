@@ -1,0 +1,18 @@
+{
+    "id":756 ,
+    "name": "CTPAX",
+    "author": "EgorSkripka",
+    "creators": ["EgorSkripka"],
+    "verifier": "imasssaya",
+    "verification": "https://youtu.be/mKW-ZhVj7Ak",
+    "showcase": "",
+    "percentToQualify":70 ,
+    "records": [
+        {
+            "user": "Blytys",
+            "link": "https://youtu.be/CE867rtr85U",
+            "percent": 100,
+            "hz": 244
+        }
+    ]
+}

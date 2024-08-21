@@ -1,0 +1,6 @@
+{
+            "user": "username",
+            "link": "link",
+            "percent": percent,
+            "hz": hz
+        }
